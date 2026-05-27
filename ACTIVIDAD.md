@@ -24,8 +24,6 @@ Antes de escribir reglas ArchUnit, identifique qué clases pertenecen a cada zon
 - adaptador de salida;
 - bootstrap o configuración.
 
-Registre esta clasificación en un breve comentario dentro del informe de entrega.
-
 ## Parte 2: Incorporación de ArchUnit
 
 Agregue la dependencia de ArchUnit en el archivo `pom.xml` con alcance de test.
